@@ -267,8 +267,6 @@ def main (inargs):
         used = 0
     else:
         compiled , used  = compile_command(args)
-        print(compiled)
-        print(used)
         if compiled:
             commands.append(compiled)
 
