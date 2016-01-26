@@ -16,4 +16,9 @@ The commands currently supported are
 For simple manipulations, a single command can be provided at the command line.
 For more powerful changes a script can to specified which list each command on a seperate line.
 
-For usage, please see the in-built help.
+For full usage, please see the docs folder.
+
+Installation
+------------
+
+Just copy the python script updatezip.py locally.
