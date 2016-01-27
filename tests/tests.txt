@@ -1,0 +1,5 @@
+Test file
+
+>>> import updatezip
+>>> updatezip.line2argv(r'test "string split" *[options/\]')
+['test', 'string split', '*[options/\\]']
